@@ -1,0 +1,23 @@
+-71.5312357 -16.3968095 Filial Arequipa
+-71.534655 -16.4124928 Facultad de Medicina
+-71.5365372 -16.3964877 Alliance Française
+-71.5311682 -16.4052305 Cruz Roja
+-71.536917 -16.3883235 Intermedic
+-71.5374367 -16.3878847 Fisioterapia
+-71.52475198828625 -16.40454365 Universidad Nacional de San Agustín
+-71.52930462718143 -16.395283900000003 CASE
+-71.531398572477 -16.41482245 Hospital Regional Honorio Delgado Espinoza
+-71.53561137030337 -16.38959355 Universidad Católica San Pablo
+-71.54875094423954 -16.40581555 Universidad Catolica de Santa María
+-71.54438347205428 -16.3970564 Hospital III Yanahuara
+-71.53789573111058 -16.39817545 Universidad Nacional San Agustín (Centro de Idiomas y Ceprunsa)
+-71.52786614706238 -16.40226235 Hospital Goyeneche
+-71.52672313967139 -16.407437700000003 Universidad Tecnológica del Perú
+-71.53853409663444 -16.40092975 Universidad Tecnológica del Perú
+-71.53718298195388 -16.3970913 Universidad Nacional de San Agustin de Arequipa
+-71.55660220559702 -16.4245845 Universidad La Salle
+-71.52774419209058 -16.412702099999997 Universidad Andina Filial Arequipa
+-71.54043013948564 -16.4089733 Universidad Tecnológica del Perú
+-71.52813833524166 -16.40830245 Universidad Privada Autónoma del Sur
+-71.53001609370003 -16.3939986 Centro de Emergencias Críticas
+-71.5307406510514 -16.39524745 Hospital Nacional III-1 Carlos Alberto Seguín Escobedo
