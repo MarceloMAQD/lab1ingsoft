@@ -1,0 +1,6 @@
+projectKey=mi-proyecto-python
+serverUrl=http://localhost:9000
+serverVersion=25.9.0.112764
+dashboardUrl=http://localhost:9000/dashboard?id=mi-proyecto-python
+ceTaskId=b0e62209-6771-459e-b809-fd62b37286f8
+ceTaskUrl=http://localhost:9000/api/ce/task?id=b0e62209-6771-459e-b809-fd62b37286f8
